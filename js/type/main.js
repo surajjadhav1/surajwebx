@@ -1,0 +1,1 @@
+!function(e){"use strict";if(e(".typed").length){var t=e(".typed").data("typed-items");t=t.split(","),new Typed(".typed",{strings:t,loop:!0,typeSpeed:90,backSpeed:90,backDelay:2e3})}}(jQuery);
